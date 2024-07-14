@@ -1,0 +1,4 @@
+Name,Age,JsonData
+John,30,"{""location"": {""city"": ""New York"", ""state"": ""NY""}}"
+Alice,25,"{""location"": {""city"": ""San Francisco"", ""state"": ""CA""}}"
+Bob,35,"{""location"": {""city"": ""Seattle"", ""state"": ""WA""}}"

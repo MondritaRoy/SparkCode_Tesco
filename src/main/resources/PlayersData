@@ -1,0 +1,6 @@
+Player,Score1,Score2,Score3,Score4
+John,85,90,78,95
+Mary,92,88,95,89
+Alice,78,85,80,92
+Bob,,,87,94
+Carol,,91,88,null

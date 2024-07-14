@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "location": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "interests": ["programming", "hiking"]
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "age": 25,
+    "location": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "interests": ["data analysis", "visualization"]
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "age": 35,
+    "location": {
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "interests": ["machine learning", "artificial intelligence"]
+  }
+]
