@@ -24,7 +24,7 @@ val df2 =   spark.read.option("header", true).csv("C:\\Users\\Admin\\IdeaProject
 
  val getdatafromdf2 =   spark.sql("select * from table2 minus select * from table1")
 
- println( getdatafromdf1.unionAll(getdatafromdf2).count)
+ println(getdatafromdf1.unionAll(getdatafromdf2).count)
 
 
 }
